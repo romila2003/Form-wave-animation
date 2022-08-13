@@ -58,7 +58,7 @@ This is apart of the 50 projects in 50 days challenge and is the eighth project.
 
 I learned a new concept that allows you to manipulate the html property within the javascript and turn each letter of a word, into a span. This concept was very interesting and intend to use it in future projects. I also used the email validation concept within this project too.
 
-Javascript - mouseenter and mouseleave:
+Javascript - `.map` and `.join`:
 
 ```javascript
 
