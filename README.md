@@ -1,6 +1,6 @@
 # Form-wave-animation
 
-This is apart of the 50 projects in 50 days challenge and is the eigth project.
+This is apart of the 50 projects in 50 days challenge and is the eighth project.
 
 ## Table of contents
 
@@ -25,19 +25,19 @@ This is apart of the 50 projects in 50 days challenge and is the eigth project.
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Form-wave-animation/blob/main/Mobile%20preview.PNG)
 
 # Mobile Preview - active
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Form-wave-animation/blob/main/Mobile%20preview%20-%20active.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Form-wave-animation/blob/main/Desktop%20preview.PNG)
 
 # Desktop Preview - active
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Form-wave-animation/blob/main/Desktop%20preview%20-%20active.PNG)
 
 
 ### Links
